@@ -27,3 +27,5 @@ extern "C" void app_main(void)
     // Launch the application
     Application::GetInstance().Start();
 }
+
+//main function to start the application
